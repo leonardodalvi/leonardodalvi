@@ -7,7 +7,7 @@
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardodalvi&show_icons=true&theme=ayu-mirage" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodalvi&layout=compact" />
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodalvi&layout=compact" />
 </div>
   
 -----
