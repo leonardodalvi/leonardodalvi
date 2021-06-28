@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá! Tudo bom?
+
+#### Meu nome é Leonardo, sou Desenvolvedor Web e Cientista de Dados... e este é o meu GitHub.
+
+-----
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardodalvi&show_icons=true&theme=ayu-mirage" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodalvi&layout=compact" />
+
+-----
 
 <!--
 **leonardodalvi/leonardodalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
