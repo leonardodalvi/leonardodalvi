@@ -1,6 +1,6 @@
-### Olá! Tudo bom?
+### Olá! Tudo bom? Me chamo Leonardo Dalvi Alvarenga.
 
-#### Meu nome é Leonardo, sou Desenvolvedor Web e Cientista de Dados... e este é o meu GitHub.
+#### Sou Desenvolvedor Web e Cientista de Dados... e este é o meu GitHub.
 
 -----
 
