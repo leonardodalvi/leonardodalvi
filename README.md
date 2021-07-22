@@ -2,7 +2,7 @@
 
 #### Me chamo Leonardo Dalvi Alvarenga.
 
-#### Sou Desenvolvedor Web e Cientista de Dados... e este é o meu GitHub.
+#### Sou Desenvolvedor Web e Cientista de Dados em formação... e este é o meu GitHub.
 
 ## Stack
 <div>
