@@ -12,7 +12,7 @@
     📆 "age": int((date.today() - date(1988,5,20)).days / 365.2425),
     🌃 "city": "Vitória, ES",
     💻 "stack": ["Html5","CSS3","Javascript","PHP","MySQL", "PostgreSQL", "Python", "Git"],
-    🎮 "hobby": ["Séries", "Filmes", "Ler", "Jogar WoW, Battlefield e CS", "Tocar Guitarra e Violão", "Cozinhar"]
+    🎮 "hobby": ["Séries", "Filmes", "Ler", "Jogar WoW, Battlefield e CS", "Guitarra e Violão", "Cozinhar"]
   }
   response = requests.post(api_url, json=user)
   response.json()
