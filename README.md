@@ -15,8 +15,8 @@
     🎮 "hobby": ["Séries", "Filmes", "Ler", "WoW, Battlefield e CS", "Guitarra e Violão", "Cozinhar"]
   }
   response = requests.post(api_url, json=user)
-  response.json()
-  response.status_code
+  print(response.json())
+  print(response.status_code)
 ```
 <div align="center">
   <a href="https://github.com/RodrigoRedivo">
