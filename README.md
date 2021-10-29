@@ -6,7 +6,7 @@
 ```python
   import requests
   from datetime import date
-  api_url = "https://datadev.user/myprofile"
+  api_url = "https://leonardodalvi.dev.br"
   user = {
     🧑🏽 "name": "Leonardo Dalvi Alvarenga",
     📆 "age": int((date.today() - date(1988,5,20)).days / 365.2425),
