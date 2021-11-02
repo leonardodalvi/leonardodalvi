@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardodalvi&border=true&theme=ayu-mirage" />
 </div>
 
-<h1 align="center">Stack</h1>
+##
 <div align="center">
   <a href="https://github.com/leonardodalvi">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
