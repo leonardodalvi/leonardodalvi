@@ -11,7 +11,7 @@
     🧑🏽 "name": "Leonardo Dalvi Alvarenga",
     📆 "age": int((date.today() - date(1988,5,20)).days / 365.2425),
     🌃 "city": "Vitória, ES",
-    💻 "stack": ["Html5","CSS3","Javascript","PHP","MySQL", "PostgreSQL", "Python", "Git"],
+    💻 "stack": ["Python","MySQL", "PostgreSQL", "R", "Git"],
     🎮 "hobby": ["Séries", "Filmes", "Ler", "WoW, Battlefield e CS", "Guitarra e Violão", "Cozinhar"]
   }
   response = requests.post(api_url, json=user)
@@ -28,16 +28,7 @@
 ##
 <div align="center">
   <a href="https://github.com/leonardodalvi">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://github.com/leonardodalvi">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://github.com/leonardodalvi">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://github.com/leonardodalvi">
-    <img src="https://img.shields.io/badge/PHP-8993c1?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/PYTHON-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
   </a>
   <a href="https://github.com/leonardodalvi">
     <img src="https://img.shields.io/badge/MYSQL-5382a1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,7 +37,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://github.com/leonardodalvi">
-    <img src="https://img.shields.io/badge/PYTHON-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/R-4267b2?style=for-the-badge&logo=r&logoColor=black" />
   </a>
   <a href="https://github.com/leonardodalvi">
     <img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white" />
