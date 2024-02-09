@@ -1,7 +1,7 @@
 ## Olá! Seja Bem-Vindo(a)! Me chamo Leonardo Dalvi Alvarenga. ✌️
 #### Mas pode chamar de Leo, que já tá bom o bastante. 😁
 
-# 🖥 Analista e Cientista de Dados
+# 🖥 Desenvolvedor Full Stack e Analista de Dados
 
 ```python
   import requests
